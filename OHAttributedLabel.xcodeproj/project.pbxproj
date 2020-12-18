@@ -122,10 +122,11 @@
 			};
 			buildConfigurationList = F62728F4148F70DF00314599 /* Build configuration list for PBXProject "OHAttributedLabel" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = F62728EF148F70DF00314599;
 			productRefGroup = F62728FB148F70DF00314599 /* Products */;
